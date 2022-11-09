@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="website.css">
+<h1>Aiello Giuseppe</h1>
+<h2  class="h1-d-ciccio">Un ragazzo intraprendente</h2>
+
+<p>  Aiello Giuseppe nasce a Palermo il 09/02/1999, cresce in un famiglia numerosa e con un sogno nel cassetto, diventare un calciatore.
+    Il suo modo di fare e di imparare lo contraddistingue dagli altri, tanto che si diploma per ben due volte.
+    Il primo diploma lo prende nel 2019 al Liceo Enrico Fermi dopo 6 anni che frequenta il Liceo ma nonostante tutto decide di prendere un altro Diploma questa volta in un Istituto Tecnico,
+    prendendo il diploma dei servizi commerciali nel giugno del 2022.
+    Durante questi anni non c'è solo la scuola ma anche il lavoro, perchè fa esperienza anche in campo estero e bene si, nell'ottobre del 2019
+    si trasferisce a Varese poichè viene chiamato a lavorare in Svizzera per un'azienda di nota importanza come la Gucci, questa esoerienza finisce subito poichè con l'arrivo del Covid-19 viene 
+    licenziato, nel settembre del 2021 viene chiamato a lavorare come portalettere per conto di Poste Italiane Spa, ma quets aesperienza dura anche poco per vie delle varie politiche attive dell'azienda.
+    In poche parole Giuseppe è un ragazzo che ama mettersi in gioco e imparare quanto è possibile.
+</p>
+<img class=ciccio src="img/ciccio.JPG"></img>
+ <body style="background-color:aquamarine"></body>
