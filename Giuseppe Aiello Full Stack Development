@@ -1,3 +1,5 @@
+
+
 <link rel="stylesheet" href="website.css">
 <h1>Aiello Giuseppe</h1>
 <h2  class="h1-d-ciccio">Un ragazzo intraprendente</h2>
@@ -15,4 +17,8 @@
  <body style="background-color:aquamarine"></body>
 
 
-$ git clone https://github.com/ Giuseppe Aiello/ Giuseppe Aiello.github.io
+$ git clone $ git add --all
+
+$ git commit -m "Commit iniziale"
+
+$ git push -u origin main
